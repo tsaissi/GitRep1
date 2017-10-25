@@ -1,10 +1,1 @@
- Volume in Laufwerk C: hat keine Bezeichnung.
- Volumeseriennummer: 509D-E8CC
-
- Verzeichnis von C:\Users\tsaissi\Documents\GitProject
-
-25.10.2017  12:00    <DIR>          .
-25.10.2017  12:00    <DIR>          ..
-25.10.2017  12:00                 0 test1.txt
-               1 Datei(en),              0 Bytes
-               2 Verzeichnis(se), 139.409.031.168 Bytes frei
+change 1
